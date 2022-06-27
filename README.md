@@ -1,4 +1,16 @@
-<h2 align="left">Hi 👋! My name is Francielle Abreu and I'm full stack developer, from Curitiba Brasil!</h2>
+<h2 align="center">Olá 👋   , obrigada pela visita!</h2>
+
+<h2 align="center"> Prazer, sou a Francielle Abreu, full stack developer, tenho 27 anos e moro em Curitiba-Brasil! 😀 </h2>
+
+<div align="left">
+
+- 🏆 Primeiro lugar hackathon <a href="https://blog.provi.com.br/outros/tudo-o-que-rolou-provihack/" target="_blank">Provi hack woman</a>
+- 🎓 Formada pela <a href="https://kenzie.com.br/" target="_blank">Kenzie Academy Brasil</a> em Frontend e Backend, curso de duas mil horas!
+- 📚 Finalizando Análise e Desenvolvimento de Sistemas na Uninter
+- 🇨🇮 Morei 4 meses na Irlanda para estudar inglês!
+- 👩‍💻 Gosto muito de estudar, atualmente estou focada no ruby-on-rails!
+- 🎯 Meta profissional: Tornar-se Dev especialista e assim ajudar outras mulheres na carreira de desenvolvimento web!
+</div>
 
 ###
 
