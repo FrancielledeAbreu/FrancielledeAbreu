@@ -5,7 +5,7 @@
 <div align="left">
 
 - 🏆 Primeiro lugar hackathon <a href="https://blog.provi.com.br/outros/tudo-o-que-rolou-provihack/" target="_blank">Provi hack woman</a>
-- 🎓 Analista de Sistema
+- 🎓 Analista de Sistemas
 - 🎓 Formada pela <a href="https://kenzie.com.br/" target="_blank">Kenzie Academy Brasil</a> em Frontend e Backend, curso de duas mil horas!
 - 📚 Finalizando Análise e Desenvolvimento de Sistemas na Uninter
 - 🇨🇮 Morei 4 meses na Irlanda para estudar inglês!
